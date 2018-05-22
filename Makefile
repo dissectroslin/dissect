@@ -45,7 +45,7 @@ TRACEBACK = 1
 
 #############################################################################
 # Additional flags for the compiler
-CXXFLAGS = -g -O0 #-Wall -pg
+CXXFLAGS = -g -O3 #-Wall -pg
 #-O3
 
 CRM = rm
